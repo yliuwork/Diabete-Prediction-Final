@@ -119,7 +119,7 @@
 
 #### Outline of project
 
-- [https://github.com/yliuwork/diabetes_risk_predict/blob/main/diabetes_risk_prediction.ipynb]
+- [https://github.com/yliuwork/Diabete-Prediction-Final/blob/main/diabetes_risk_prediction.ipynb]
 
 ##### Contact and Further Information
     yliuwork@gmail.com
